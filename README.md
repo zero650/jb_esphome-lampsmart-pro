@@ -17,7 +17,7 @@ Basically it's https://github.com/aronsky/esphome-components and https://github.
 ```yaml
 external_components:
   # shorthand
-  source: github://zt8989/esphome-lampsmart-pro
+  source: github://zero650/jb_esphome-lampsmart-pro
 
 light:
   - platform: lampsmart_pro_light
